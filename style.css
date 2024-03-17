@@ -1,0 +1,12 @@
+.box{
+    height: 100px;
+    width: 170px;
+    border: 2px solid black;
+}
+.container{
+    display: flex;
+    gap: 45px;
+}
+.drag{
+    margin: 34px;
+}
